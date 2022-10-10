@@ -1,0 +1,16 @@
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\bin\Debug\net5.0\Week_4.exe
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\bin\Debug\net5.0\Week_4.deps.json
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\bin\Debug\net5.0\Week_4.runtimeconfig.json
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\bin\Debug\net5.0\Week_4.runtimeconfig.dev.json
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\bin\Debug\net5.0\Week_4.dll
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\bin\Debug\net5.0\ref\Week_4.dll
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\bin\Debug\net5.0\Week_4.pdb
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.csproj.AssemblyReference.cache
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.AssemblyInfoInputs.cache
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.AssemblyInfo.cs
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.csproj.CoreCompileInputs.cache
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.dll
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\ref\Week_4.dll
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.pdb
+C:\Users\juret\OneDrive\Bureau\Cours\Week_4\obj\Debug\net5.0\Week_4.genruntimeconfig.cache
